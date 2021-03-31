@@ -1,0 +1,42 @@
+body
+{
+background-image:url("C:\Users\Admin\Pictures\pexels-photo-1936299..jpeg");
+}
+h1
+{
+text-align:center;
+text-shadow:5px 8px red;
+margin-left:200px;
+text-transform:capitalize;
+}
+h2
+{
+	color:blue;
+	text-align:left;
+	text-decoration:overline;
+	text-transform:uppercase;
+}
+h3
+{
+	color:yellow;
+	text-align:center;
+	text-decoration:line-through;
+	text-transform:lowercase;
+}
+h4
+{
+	color:pink;
+	text-align:right;
+	text-transform:uppercase;
+}
+h5
+{
+	letter-spacing:10px;
+}
+p
+{
+color:white;
+margin-top:50px;
+margin-bottom:50px;
+margin-left:150px;
+}
